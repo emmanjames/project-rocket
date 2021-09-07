@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    padding-left: 200px;
+}
+.fa-rocket{
+    font-size: 40px;
+    padding-top: 3opx;
+    color: rgba(0, 0, 0, 0.507);
+}
+ul{
+    margin-left: auto;
+    padding: 30px 90px 0px 0px;
+}
+ul li{
+    display: inline;
+    padding-right: 50px;
+}
+.navbar{
+display: flex;
+}
+li a{
+    text-decoration: none;
+    font-size: 16px;
+    color: black;
+}
+.main-sec{
+    background-color: gray;
+    height: 400px;
+    text-align: center;
+    padding-top: 100px;
+}
+.main-sec p{
+    color: whitesmoke;
+}
+.p-1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.btn-1{
+    margin-bottom: 40px;
+    border-radius: 15px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-right: 20px;
+    color: white;
+    background-color: dimgray;
+}
+.btn-2{
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+.btn-3{
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+.btn-4{
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+.main{
+    margin-top: 0px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 200px;
+}
